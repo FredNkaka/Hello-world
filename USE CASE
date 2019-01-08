@@ -1,0 +1,37 @@
+1.application must allow users to search businesses by name or username  
+
+2.system must provide different methods of payment
+     user wants to buy or pay for a service for the first time
+     system asks the user which method they want to use
+     the user chooses the method and confirms
+     system asks the use to create a pattern or passcode to protect their
+       money and proceed
+     user gets a notification that they have purchased or paid for a service
+
+3.application must allow users to cancel a service or a purchase
+    user gets a notification saying they have paid for a service or an item
+      with an option to cancel
+    the user cancels
+    the system validates and proceed to tell the user how long it will take 
+        to get a refund
+
+4.system must verify the business ID using RDBs database or send a request to RDB to be verified
+    user eneters the Id on the business form
+    system checks send request to RDB
+    user gets message that the system is verifying and that they will get 
+       a message in a week regarding their business accounts status
+    user enters app with some privileges revoked coz of pending  verification
+    user gets message that account is verified
+    user start gets all privileges
+
+5.application must allow service providers to input and display their services and tariffs
+
+6.system must ask for pattern or passcode to purchase a service or pay for a    service
+
+7.application must allow users to communicate with service providers
+
+8.application must allow users to favorite business for future use and to see their    posts on home
+
+9.system must store user information for later use such as purchases or deposits
+
+10.system must document business transactions
